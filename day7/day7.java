@@ -6,7 +6,7 @@ public class day7 {
     public static int number = 0;
 
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("/Users/yunchao/Library/CloudStorage/OneDrive-NationalUniversityofSingapore/Documents/AdventOfCode/day7/input2.txt");
+        File file = new File("input2.txt");
         Scanner sc = new Scanner(file);
 
         

@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 
 class dayOne{
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("/Users/yunchao/Library/CloudStorage/OneDrive-NationalUniversityofSingapore/Documents/AdventOfCode/day1/input.txt");
+        File file = new File("input.txt");
         Scanner sc = new Scanner(file);
 
         int first = 0, second = 0, third = 0;

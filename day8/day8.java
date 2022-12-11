@@ -9,7 +9,7 @@ public class day8 {
     public static int highScore = 0;
 
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("/Users/yunchao/Library/CloudStorage/OneDrive-NationalUniversityofSingapore/Documents/AdventOfCode/day8/input.txt");
+        File file = new File("input.txt");
         Scanner sc = new Scanner(file);
 
         //main file is 99 x 99

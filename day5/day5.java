@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 
 public class day5 {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("/Users/yunchao/Library/CloudStorage/OneDrive-NationalUniversityofSingapore/Documents/AdventOfCode/day5/input.txt");
+        File file = new File("input.txt");
         Scanner sc = new Scanner(file);
 
         char[][] arr = new char[9][8];
